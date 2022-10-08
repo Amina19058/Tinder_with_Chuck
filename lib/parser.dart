@@ -36,3 +36,4 @@ Future<Joke> fetchJoke() async {
     throw Exception('Failed to load joke');
   }
 }
+
