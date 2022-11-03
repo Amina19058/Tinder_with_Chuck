@@ -17,9 +17,13 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+- [About the project](#about-the-project)
 - [Icon](#icon)
+- [Home](#home)
+- [Favorites](#favorites)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
+- [Contact](#contact)
 
 ## About the project
 
