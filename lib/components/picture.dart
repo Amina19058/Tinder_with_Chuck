@@ -8,7 +8,7 @@ class ChuckPic extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
         shape: BoxShape.rectangle,
-        borderRadius: BorderRadius.circular(20.0),
+        borderRadius: BorderRadius.circular(8.0),
         boxShadow: [
           BoxShadow(
             color: Colors.grey.withOpacity(0.2),
@@ -18,11 +18,10 @@ class ChuckPic extends StatelessWidget {
         ],
         image: DecorationImage(
             image: AssetImage('assets/images/background.png'),
-            colorFilter: ColorFilter.mode(
-                Colors.white70, BlendMode.lighten
-            ),
-            fit: BoxFit.cover
-        ),
+            colorFilter: ColorFilter.mode(Color(0xF5ABAFCC), BlendMode.screen
+                //(0xB6FDFDFD)white54.withOpacity(0.6)
+                ),
+            fit: BoxFit.cover),
       ),
     );
   }

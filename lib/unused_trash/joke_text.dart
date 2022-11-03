@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tinder_with_chuck/parser.dart';
+import 'package:tinder_with_chuck/functionality/parser.dart';
 import 'package:tinder_with_chuck/styles/text_pattern.dart';
 
 class JokeText extends StatefulWidget {
