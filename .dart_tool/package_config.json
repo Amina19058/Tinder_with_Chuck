@@ -248,6 +248,12 @@
       "languageVersion": "2.15"
     },
     {
+      "name": "internet_connection_checker",
+      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/internet_connection_checker-1.0.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "io",
       "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/io-1.0.3",
       "packageUri": "lib/",
@@ -292,6 +298,12 @@
     {
       "name": "mime",
       "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -380,6 +392,12 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "provider",
+      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "pub_semver",
       "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.2",
       "packageUri": "lib/",
@@ -399,9 +417,9 @@
     },
     {
       "name": "shelf_web_socket",
-      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.2",
+      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.17"
     },
     {
       "name": "sky_engine",
@@ -441,7 +459,7 @@
     },
     {
       "name": "stream_transform",
-      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.1",
+      "rootUri": "file:///Users/amina/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -524,7 +542,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-11-03T12:16:36.958780Z",
+  "generated": "2022-11-04T15:04:25.949061Z",
   "generator": "pub",
   "generatorVersion": "2.18.2"
 }
