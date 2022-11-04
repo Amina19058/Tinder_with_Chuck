@@ -79,9 +79,12 @@ class _ListBuilderState extends State<ListBuilder> {
                         },
                         trailing: widget.isSelectionMode
                             ? Checkbox(
+                                shape: RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(4)),
                                 value: widget.selectedList[favoriteJokesIndex],
                                 onChanged: (bool? x) =>
                                     _toggle(favoriteJokesIndex),
+                                activeColor: Color(0xAB0E1523),
                               )
                             : const SizedBox.shrink(),
                         title: Text(
