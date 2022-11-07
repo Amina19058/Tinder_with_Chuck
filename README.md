@@ -73,9 +73,11 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/Amina19058/Tinder_with_Chuck.git
    ```
 
-1. Open with Android Studio
+2. Open with Android Studio
 
-1. Run the `main.dart` file
+3. Run the `main.dart` file
+
+To open the app on android, download `.apk` file from [here](https://drive.google.com/drive/folders/12eYX9sIZ8QGf0-a7jS9-PdobhWQ7-0S_).
 
 ## Contact
 
